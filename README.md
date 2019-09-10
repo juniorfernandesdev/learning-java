@@ -1,7 +1,7 @@
-# JAVA
+# ESTUDANDO JAVA - FACULDADE UNINASSAU
 
+> Primeiro codico em java
 
-//codico
 ```
 public class main {
     public static void main(string[] args) {
